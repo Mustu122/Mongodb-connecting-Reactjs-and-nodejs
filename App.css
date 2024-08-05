@@ -1,0 +1,17 @@
+/* General styling for the App component */
+.App {
+  font-family: Arial, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* Full viewport height */
+  background-color: #f4f4f4; /* Light grey background */
+  margin: 0; /* Remove default margin */
+}
+
+h1 {
+  font-size: 2em;
+  color: #333;
+  margin-bottom: 20px;
+}
